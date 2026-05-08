@@ -4,7 +4,7 @@ A full-stack industrial energy monitoring system that tracks real-time power con
 
 ---
 
-![final Output](outputs\Real-Time Energy Monitoring(Python).mp4)
+![final Output](outputs/RealTimeEnergyMonitoring.mp4)
 
 ## Table of Contents
 
