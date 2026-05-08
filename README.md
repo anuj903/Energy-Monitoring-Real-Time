@@ -4,7 +4,7 @@ A full-stack industrial energy monitoring system that tracks real-time power con
 
 ---
 
-![final Output](outputs/RealTimeEnergyMonitoring.mp4)
+![final Output](outputs/EnergyMonitoringoutput.png)
 
 ## Table of Contents
 
